@@ -25,10 +25,9 @@ Details included are product name, description and price. An image is also displ
 Note:
 For categoryWise filter and product search , there is no API available. So implemeted as in the below steps
 1. Fetch all categories and products
-2. Store the products data in the application state using redux toolkit
-3. Display all products 
-4. For category wise filter/ search & pagination, the logic is implemented inside the component itslef using useMemo feature since no API for filter/pagination
-5. For add to favourite feature, an application state is used
+2. Store the categories/Products data in the application state using redux toolkit
+3. For category wise filter, search & pagination, the logic is implemented inside the component itslef using useMemo feature since no API for filter/pagination/search
+4. For add to favourite feature, an application state is used
 
 
 Runs the app in the development mode.\
