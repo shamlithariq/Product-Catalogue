@@ -1,15 +1,15 @@
 # Product Catalogue
 
 This project is for displaying products with its complete details.
-Details included are product name, description and price. AN image is also attached.
+Details included are product name, description and price. An image is also displayed.
 
 ## Features included are
 1. Product Sorting
 2. Product Search
-3. Product filter based on Categories
+3. Product filter based on categories
 4. Add to favourite feature
 5. Infinite scrolling
-6. PRoduct details page
+6. Product details page
 7. My favourite products page
 
 
