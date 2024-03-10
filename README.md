@@ -29,6 +29,3 @@ For categoryWise filter and product search , there is no API available. So imple
 3. For category wise filter, search & pagination, the logic is implemented inside the component itslef using useMemo feature since no API for filter/pagination/search
 4. For add to favourite feature, an application state is used
 
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
